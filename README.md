@@ -33,6 +33,8 @@ def max_marks(list1):
     return max_num
 ```
 ## Output:
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
