@@ -33,9 +33,6 @@ def max_marks(list1):
     return max_num
 ```
 ## Output:
-![Screenshot 2024-03-31 150902](https://github.com/JAGADEESHJ97/FindMaximum/assets/152129419/7e1e1d73-b251-4281-83ee-414f93414141)
-![Screenshot 2024-03-31 150913](https://github.com/JAGADEESHJ97/FindMaximum/assets/152129419/1a043296-a757-4de8-a51f-586dbef114ac)
-![Screenshot 2024-03-31 150926](https://github.com/JAGADEESHJ97/FindMaximum/assets/152129419/600416c7-f014-42bc-8633-5bf6ebff493e)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
